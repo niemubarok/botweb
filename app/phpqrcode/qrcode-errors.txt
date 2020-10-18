@@ -1,0 +1,1 @@
+2020-10-17 13:00:47: imagepng(E:\PROJECT\webnbot\storage\app/public/qrcode): failed to open stream: Permission denied
