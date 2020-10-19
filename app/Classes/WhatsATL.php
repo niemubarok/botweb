@@ -100,4 +100,4 @@ class WhatsATL
     }
 }
 
-$WATL = new WhatsATL('WzPKD0z3W7fMdsmXQrnMjkkswK6HJWAMroXN4rGF');
+$WATL = new WhatsATL('');
